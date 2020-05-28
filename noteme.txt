@@ -1,0 +1,2 @@
+1.download jquery (jquery.com) first
+=> Download the compressed production jQuery 3.4.1
